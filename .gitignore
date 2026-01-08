@@ -1,21 +1,14 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
-
-# iOS / Xcode
-*.xcworkspace
+[L]ibrary/
+[T]emp/
+[O]bj/
+[L]ogs/
+[U]serSettings/
+[B]uild/
+Jet Engine/
+MemoryCaptures/
+*.csproj
+*.sln
+*.apk
+*.ipa
 *.xcodeproj
-DerivedData/
-
-# macOS
-.DS_Store
-Library/
-Temp/
-Obj/
-Logs/
-Build/
-UserSettings/
+*.xcworkspace
