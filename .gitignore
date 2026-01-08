@@ -13,3 +13,9 @@ DerivedData/
 
 # macOS
 .DS_Store
+Library/
+Temp/
+Obj/
+Logs/
+Build/
+UserSettings/
