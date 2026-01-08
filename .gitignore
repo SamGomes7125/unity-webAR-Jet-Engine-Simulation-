@@ -1,14 +1,28 @@
-[L]ibrary/
-[T]emp/
-[O]bj/
-[L]ogs/
-[U]serSettings/
-[B]uild/
-Jet Engine/
+[LH]
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
 MemoryCaptures/
+
+# Visual Studio / IDE
+.vs/
 *.csproj
 *.sln
-*.apk
-*.ipa
-*.xcodeproj
-*.xcworkspace
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.tmp
++.idea/
